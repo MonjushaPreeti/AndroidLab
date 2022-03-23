@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42439092660",
+    "project_id": "clever-overview-337314",
+    "storage_bucket": "clever-overview-337314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42439092660:android:677b3f86058696f9572ae1",
+        "android_client_info": {
+          "package_name": "com.example.quizfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42439092660-qch7oc56p55c5tki0kjd689gqef6fuq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSDrvxjzoCDkD6-QUjNukZ7gduPBp853o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42439092660-qch7oc56p55c5tki0kjd689gqef6fuq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
